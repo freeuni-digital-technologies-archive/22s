@@ -24,3 +24,10 @@
 - ლოგიკა და if დებულებები
 	- [გამოწვევა: რიცხვის გაანალიზება](https://ka.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-number-analyzer)
 - [ციკლის შექმნა](https://ka.khanacademy.org/computing/computer-programming/programming/looping/pt/intro-to-while-loops) მთლიანად
+
+### მეექვსე კვირა
+თუ სავარჯიშოში ან სავარჯიშოს ნაწილში იყო mouseClick/ან ანიმაციის ფუნქცია, ის სავარჯიშო არ არის გასაკეთებელი
+- [მასივები](https://ka.khanacademy.org/computing/computer-programming/programming/arrays/pt/intro-to-arrays)
+- [ობიექტები](https://ka.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects)
+- [ობიექტზე ორიენტირებული დიზაინი](https://ka.khanacademy.org/computing/computer-programming/programming/object-oriented/pt/object-types)
+
