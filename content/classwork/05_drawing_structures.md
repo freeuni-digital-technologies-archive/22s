@@ -1,4 +1,4 @@
-# 05 - 06. ცვლადები, ფუნქციის არგუმენტები
+# 05. ცვლადები, ფუნქციის არგუმენტები
 
 ამ კვირიდან ვიყენებთ ხატვის ფუნქციების გამოყენებას ჯავასკრიპტის დანარჩენი ფუნქციონალის შესასწავლად. ამისთვის ხანის აკადემიაზე არის codehs-ის მსგავსი სავარჯიშოები. თითოეულ სავარჯიშოს თან ახლავს (სავარჯიშოს წინ არის ხოლმე) არაჩვეულებრივი ვიდეოები, რომლებსაც შეგიძლია უყურო, თუ სავარჯიშოს ვერ გააკეთებ ან იმ თემის გადამეორება მოგინდება.
 
@@ -14,7 +14,7 @@
 	- [თემა: გართულებული JS: ბუნებრივი სიმულაციები](https://ka.khanacademy.org/computing/computer-programming/programming-natural-simulations)
 
 
-### მეხუთე კვირა
+
 - [ხატვის საწყისები](https://ka.khanacademy.org/computing/computer-programming/programming/drawing-basics/pt/making-drawings-with-code) მთლიანად
 - [გაფერადება](https://ka.khanacademy.org/computing/computer-programming/programming/coloring/pt/coloring-with-code) მთლიანად
 - [ცვლადები](https://ka.khanacademy.org/computing/computer-programming/programming/variables/pt/intro-to-variables) მთლიანად
@@ -24,10 +24,3 @@
 - ლოგიკა და if დებულებები
 	- [გამოწვევა: რიცხვის გაანალიზება](https://ka.khanacademy.org/computing/computer-programming/programming/logic-if-statements/pc/challenge-number-analyzer)
 - [ციკლის შექმნა](https://ka.khanacademy.org/computing/computer-programming/programming/looping/pt/intro-to-while-loops) მთლიანად
-
-### მეექვსე კვირა
-თუ სავარჯიშოში ან სავარჯიშოს ნაწილში იყო mouseClick/ან ანიმაციის ფუნქცია, ის სავარჯიშო არ არის გასაკეთებელი
-- [მასივები](https://ka.khanacademy.org/computing/computer-programming/programming/arrays/pt/intro-to-arrays)
-- [ობიექტები](https://ka.khanacademy.org/computing/computer-programming/programming/objects/pt/intro-to-objects)
-- [ობიექტზე ორიენტირებული დიზაინი](https://ka.khanacademy.org/computing/computer-programming/programming/object-oriented/pt/object-types)
-
