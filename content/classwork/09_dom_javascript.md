@@ -138,13 +138,11 @@ function createTaskElem(taskText) {
 	// ღილაკი
 	let doneTaskButton = document.createElement('button')
 	doneTaskButton.innerText = '☑️'
-	doneTaskButton.className = 'task-done-button'
 	taskDiv.appendChild(doneTaskButton)
 	// ტექსტი
-	let taskTextDiv = document.createElement('div')
-	taskTextDiv.innerText = taskText
-	taskTextDiv.className = 'task-text-div'
-	taskDiv.appendChild(taskTextDiv)
+	let taskTextSpan = document.createElement('span')
+	taskTextSpan.innerText = taskText
+	taskDiv.appendChild(taskTextSpan)
 	
 	return taskDiv
 }

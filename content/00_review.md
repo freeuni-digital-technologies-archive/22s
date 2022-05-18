@@ -56,14 +56,19 @@
 - სემინარი [html და css](/classwork/07_08_html_css)
 - **მე-5 დავალება** გამოქვეყნებულია კლასრუმზე
 
-## ახლანდელი კვირა
 ### 9. 10 მაისი
 - ლექცია (არასავალდებულო) აპლიკაციის მაგალითი: [flask სერვერი პითონში](https://github.com/freeuni-digital-technologies/application_examples/tree/main/flask_example). ვინც ინსტრუქციას მიყვება და საკუთარ სერვერზე გამართავს, ბონუს ქულას მიიღებს.
 - სემინარი: [dom javascript](/classwork/09_dom_javascript)
+## ახლანდელი კვირა
+### 10. 18 მაისი
+- ლექცია [ვები, ნაწილი 2](/lectures/10_web)
+- სემინარი: [todo აპლიკაციის დასრულება, api გამოყენება](/classwork/10_todo_app_api)
+
 <!--
 - [ბონუს პრეზენტაციის ინსტრუქცია]()
 -->
 . 
+<!--
 !!! tip "_"
 	- **ბონუს დისკუსია** დაიწყება ხოლმე ლექციამდე, დაახლოებით 9:55-ზე და გაგრძელდება 10-15 წუთი. მომდევნო დისკუსიის ბრიფი გამოქვეყნდება ხოლმე კვირის შეჯამებასთან ერთად. ქულები იწერება რამდენიმე სხვადასხვა დისკუსიაში (თუნდაც მინიმალური) მონაწილეობის შემდეგ. ბონუს დისკუსიის ქულების მიღება შესაძლებელია ლექციებზე/სემინარებზე აქტიურობითაც.
 	- **შემდეგი სამშაბათის სამსჯელო თემა**: platform or publisher debate (ზოგადად და facebook/twitter შემთხვევაში). სტუდენტებისთვის გასაზიარებლად მოკლე რეზიუმეს გაკეთების სურვილი თუ ექნება ვინმემ, პრეზენტაციის ბონუს ქულას დავუწერ.
@@ -71,7 +76,7 @@
 		- [Platforms Are Not Publishers](https://www.theatlantic.com/ideas/archive/2018/08/the-messy-democratizing-beauty-of-the-internet/567194/)
 		- [https://www.editorandpublisher.com/stories/for-democracys-sake-social-media-platforms-must-be-deemed-publishers-under-section-230,180554](https://www.editorandpublisher.com/stories/for-democracys-sake-social-media-platforms-must-be-deemed-publishers-under-section-230,180554)
 	
-
+-->
 <!--
 - [მე-5 დავალებაში] (TODO) შედის ამ და შემდეგი კვირის მასალა. **მნიშვნელოვანია**, რომ **პირველი სამი გვერდი** დაიწყოთ ამ კვირას, რადგან საერთოდ სხვა გარემოა და დასაწყისში 1-2 საათი უბრალოდ მაგასთან შეჩვევა გინდათ.
 
