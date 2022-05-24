@@ -64,7 +64,7 @@ TBA
 ### საწყისი ფაილის გახსნა
 1. გაიარე ავტორიზაცია (5)
 2. დამალე preview (4)
-3. პირველ ეტაპზე ფორმატირებაში რომ არ იწვალო, წინასწარ გავამზადე template, [გადმოწერე აქედან](https://github.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io/raw/main/content/files/bonus_outline_template.md)
+3. პირველ ეტაპზე ფორმატირებაში რომ არ იწვალო, წინასწარ გავამზადე template, [გადმოწერე აქედან](https://github.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io/raw/main/content/files/bonus_topic_template.md) (გახსენი და ctr+s)
 4. side bar > import/export > import markdown და მონიშნე გადმოწერილი ფაილი
 
 
