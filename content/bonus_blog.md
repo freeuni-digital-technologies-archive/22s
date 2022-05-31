@@ -60,7 +60,7 @@ TBA
 
 ![](files/bonus_stackedit.png)
 ### stackedit layout
-- navigation bar (3): ზემოთ ნაცრისფერი რაცაა 
+- navigation bar (3): ზემოთ მუქი რაცაა 
 - explorer (1): დოკუმენტების სია, დააჭირე `folder icon`  navigation bar-ის დასაწყისში, რომ გამოაჩინო
 - side bar/menu (2):  option bar-ის ბოლო icon-ზე დაჭერით იხსნება
 
