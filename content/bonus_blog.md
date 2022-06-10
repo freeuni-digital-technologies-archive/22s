@@ -58,7 +58,7 @@
 
 
 ### მესამე ეტაპი - თემა
-გადმოწერე მესამე ნაწილის [ფაილი](https://raw.githubusercontent.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io/main/content/files/bonus_topic_outline.md), ფორმატის ინსტრუქციით და დაწერე ტექსტი აქ. ჩათვალე, რომ წერ ბლოგ პოსტს/ინტერნეტ სტატიას. 
+გადმოწერე მესამე ნაწილის [ფაილი](https://raw.githubusercontent.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io/main/content/files/bonus_topic_post.md), ფორმატის ინსტრუქციით და დაწერე ტექსტი აქ. ჩათვალე, რომ წერ ბლოგ პოსტს/ინტერნეტ სტატიას. 
 
 
 ## ტექნიკური დახმარება
