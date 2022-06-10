@@ -57,10 +57,8 @@
 მეორე ნაწილში მინდა რამდენიმე ახალი წყარო დაამატო, საკვანძო კითხვა/პასუხები ჩამოაყალიბო და ძალიან მოკლე მონახაზი გაწერო. სადემონსტრაციო ფაილი არის [აქ](https://raw.githubusercontent.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io/main/content/files/bonus_topic_outline.md).
 
 
-
-
 ### მესამე ეტაპი - თემა
-TBA
+გადმოწერე მესამე ნაწილის [ფაილი](https://raw.githubusercontent.com/freeuni-digital-technologies/freeuni-digital-technologies.github.io/main/content/files/bonus_topic_outline.md), ფორმატის ინსტრუქციით და დაწერე ტექსტი აქ. ჩათვალე, რომ წერ ბლოგ პოსტს/ინტერნეტ სტატიას. 
 
 
 ## ტექნიკური დახმარება
